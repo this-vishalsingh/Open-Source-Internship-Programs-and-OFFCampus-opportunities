@@ -6,7 +6,6 @@ This is a repository consisting of all Open Source programs, Research Internship
 Feel Free to contribute.
 Please star and share this repo with your peers and community members!
 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
 As I am from a tier 3 college, so the motive of this repo is to make unlimited possiblities/opportunities to the friends like me.
 
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
